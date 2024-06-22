@@ -43,9 +43,8 @@ integrated customer support.].
 
 ## Demo
 
-![Demo Screenshot](# Django Project Name
-
-![Project Logo](https://via.placeholder.com/150)
+![Demo Screenshot](![image](https://github.com/foropeterson/shoe-E-comerce/assets/129737573/960be514-b342-46cb-b067-b9e66b493e06)
+)
 
 ## Description
 
