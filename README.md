@@ -1,4 +1,4 @@
-# Django Project Name
+# shoe shop_system
 
 ![Project Logo](https://via.placeholder.com/150)
 
