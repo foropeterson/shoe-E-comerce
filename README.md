@@ -72,7 +72,8 @@ integrated customer support.].
 
 ## Demo
 
-![Demo Screenshot](https://via.placeholder.com/600x400)
+![Demo Screenshot](![image](https://github.com/foropeterson/shoe-E-comerce/assets/129737573/07fcade5-09f0-44f5-98ac-15ffcee64f54)
+)
 
 Check out the live demo: [Demo Link](http://example.com)
 
