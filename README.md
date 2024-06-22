@@ -43,7 +43,9 @@ integrated customer support.].
 
 ## Demo
 
-![Demo Screenshot](![image](https://github.com/foropeterson/shoe-E-comerce/assets/129737573/bc9ff7c2-ac7b-455c-a1fb-075a15247941)
+![Demo Screenshot](![image](https://github.com/foropeterson/shoe-E-comerce/assets/129737573/bf7c9ae5-43f9-4128-ab78-ca323bc07979)
+()
+)
 )
 
 Check out the live demo: [Demo Link](http://example.com)
